@@ -14,6 +14,7 @@
 
 ## Profile
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <p align="left">
   <picture>
@@ -44,7 +45,3 @@
 </picture>
 
 
-
-
-
-Last Edited on: 2024/10/04
