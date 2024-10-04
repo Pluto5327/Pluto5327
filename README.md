@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-## About me
-- 
-
-
 ## Skills
 - **Languages**: Python, MATLAB, C++, Julia, C, Swift, HTML, CSS, Ruby on Rails
 - **Optimization**: Mosek, YALMIP, Gurobi
