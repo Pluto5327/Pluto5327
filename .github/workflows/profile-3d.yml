@@ -11,21 +11,14 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN_ENTERPRISE }}
-
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN_ENTERPRISE }}
-          USERNAME: rfutagawa3
-          # GITHUB_API_URL: https://github.gatech.edu/api/v3  # 必要に応じてコメントアウト
-
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
-        env:
-          PAT: ${{ secrets.PERSONAL_ACCESS_TOKEN_ENTERPRISE }}
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add -A
-          git commit -m "generated" || echo "No changes to commit"
-          git push https://rfutagawa3:${PAT}@github.gatech.edu/<owner>/<repository>.git
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
