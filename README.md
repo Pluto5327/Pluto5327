@@ -12,5 +12,5 @@
 - [LinkedIn](https://www.linkedin.com/in/riofutagawa/)
 
 
-## Contributions for 2024 for my private account
+## Contributions for the past 365 days of this private account
 ![](./profile-3d-contrib/profile-night-view.svg)
