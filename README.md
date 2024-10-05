@@ -13,4 +13,4 @@
 
 
 ## Repo for 2024 for my private account (Only for Public Repos)
-![](./profile-3d-other-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
