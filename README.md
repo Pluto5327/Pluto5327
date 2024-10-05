@@ -12,6 +12,5 @@
 - [LinkedIn](https://www.linkedin.com/in/riofutagawa/)
 
 
-## Repo for 2024 for my private account (This One)
-Only for public repos
+## Repo for 2024 for my private account (Only for Public Repos)
 ![](./profile-3d-other-contrib/profile-night-view.svg)
