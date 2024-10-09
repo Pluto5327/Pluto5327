@@ -5,7 +5,7 @@
 - **Optimization**: Mosek, YALMIP, Gurobi
 - **CAD**: SolidWorks, AutoCAD
 - **Software**:  Simulink, ROS 2, PX4, Gazebo, XFOIL, Unity, Open VSP, Open Rocket
-- **Tools**: Git, Microsoft Office, VS Code, Linux
+- **Tools**: Git, Microsoft Office, VS Code, Linux (Ubuntu)
 
 
 ## Social Media
