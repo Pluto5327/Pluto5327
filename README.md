@@ -1,4 +1,5 @@
 ## Hi there 👋
+I primarily use GitHub on my school account.
 
 ## Skills
 - **Programming**: Python, MATLAB, C++, Julia, C, Swift, JavaScript, HTML, CSS, Ruby
